@@ -1,3 +1,16 @@
 body {
 	font-family: sans-serif;
+	width: 1440px;
+	background-color: grey;
+	margin-inline: auto;
+}
+
+* {
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+
+img {
+	max-width: 100%;
 }
